@@ -1,0 +1,15 @@
+data/obj/divieto_di_fermata1.jpg
+data/obj/divieto_di_fermata2.jpg
+data/obj/divieto_di_fermata3.jpg
+data/obj/divieto_di_fermata4.jpg
+data/obj/divieto_di_fermata5.jpg
+data/obj/senso_vietato1.jpg
+data/obj/senso_vietato2.jpg
+data/obj/senso_vietato3.jpg
+data/obj/senso_vietato4.jpg
+data/obj/senso_vietato5.jpg
+data/obj/stop1.jpg
+data/obj/stop2.jpg
+data/obj/stop3.jpg
+data/obj/stop4.jpg
+data/obj/stop5.jpg
